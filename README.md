@@ -1,2 +1,2 @@
 # Java-MVC
-Savings Account program in Java with a GUI using Java Swing framework, structured with Model-View-Controller architecture
+Savings Account program in *Java* with a GUI using the framework ***Java Swing***, structured with **Model-View-Controller** architecture.
